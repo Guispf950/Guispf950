@@ -35,6 +35,8 @@
 <p align="left"> Para concluir o curso técnico em infomática no IFAM, eu juntamente com 2 colegas, implementamos um robô móvel autônomo, que emprega a técnica de navegação de campos potenciais artificiais integrados com visão computacional, através de marcadores ArUco. O controle e processamento de dados é feito através de um aplicativo móvel desenvolvido na plataforma Android Studio.</p>
 <a href="https://github.com/Guispf950/Carrinho-Autonomo" target="_blank">🔗 Repositório do Projeto</a>
 
+<h3 align="left">📌 Loading...</h3>
+ 
 ###
 
 <h2 align="left">Tecnologias Utilzadas</h2>
