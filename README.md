@@ -69,6 +69,6 @@
 
 ###
 
-<p align="left">- Estudante de Sistemas de Informação na Universidade Estadual do Amazonas (UEA).<br>- Experiência no desenvolvimento de aplicações mobiles, web e desktop utilizando Java.<br>- Entusiasta do campo da robótica, com experiências em projetos na área.</p>
+<p align="left">- Estudante de Ciência da Computação na Universidade Federal do Amazonas (UFAM).<br>- Experiência no desenvolvimento de aplicações mobile e web utilizando Java.<br>- Entusiasta do campo da robótica, com experiências em projetos na área.</p>
 
 ###
