@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Sou um profissional altamente comprometido com as responsabilidades que me são confiadas e garanto os resultados que foram prometidos. Possuo conhecimentos em linguagens de programação como C#, C++ , Python e com maior domínio na linguagem Java juntamente com o framework Spring.<br><br>I am a highly committed professional who takes full responsibility for the tasks entrusted to me and i ensure the promised results will be delivered. I have knowledge of programming languages such as C#, C++, and Python, with a stronger expertise in Java, along with the Spring framework.</p>
+<p align="left">Sou um profissional com experiência no desenvolvimento de aplicações web e mobile, adquirida por meio de estágio e projetos de extensão no IFAM. Tenho forte senso de responsabilidade e comprometimento com os resultados, buscando sempre atingir as expectativas. Possuo domínio das linguagens C#, C++, Python e, especialmente, Java, com ênfase no uso do framework Spring.<br><br>I am a professional with experience in developing web and mobile applications, acquired through internships and extension projects at IFAM. I have a strong sense of responsibility and commitment to delivering results, always striving to meet expectations. I am proficient in programming languages such as C#, C++, Python, and especially Java, with a focus on the Spring framework.
+
+</p>
 
 ###
 
