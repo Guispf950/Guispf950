@@ -71,6 +71,6 @@
 
 ###
 
-<p align="left">- Estudante de Ciência da Computação na Universidade Federal do Amazonas (UFAM).<br>- Experiência no desenvolvimento de aplicações mobile e web utilizando Java.<br>- Entusiasta do campo da robótica, com experiências em projetos na área.</p>
+<p align="left"> Estudante de Ciência da Computação na Universidade Federal do Amazonas (UFAM).<br> Experiência no desenvolvimento de aplicações Java mobile e web.<br>Entusiasta do campo da robótica, com experiências em projetos na área.</p>
 
 ###
